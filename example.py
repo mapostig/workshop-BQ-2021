@@ -14,3 +14,6 @@ def just_ask_the_guy(inPut):
   print(inPut)
   return inPut
 
+def niceTop(input):
+  val = input("What's the color: ")
+  return val
