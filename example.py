@@ -5,4 +5,9 @@ def substract(a,b):
   return a-b
 
 def kill_myself (me):
+  
   return me*0
+
+def functionNew(whatever):
+  print(whatever)
+  return kill_myself(whatever)
