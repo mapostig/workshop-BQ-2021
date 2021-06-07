@@ -14,3 +14,9 @@ def just_ask_the_guy(inPut):
   print(inPut)
   return inPut
 
+def cheap_top (nomoney):
+  return "Thanks :) yeah its turquoise"
+
+def question (my_question):
+  return "Do you get notifications if I change my own repo?"
+
