@@ -6,3 +6,6 @@ def substract(a,b):
 
 def kill_myself (me):
   return me*0
+
+def survive (me):
+  return me*1
